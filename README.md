@@ -1,3 +1,7 @@
 # COMP-2707 Final Project - PlannerLife
 
-Notebook and Planner Website: https://alvi118.myweb.cs.uwindsor.ca/index.php
+The website can be accessed on: https://alvi118.myweb.cs.uwindsor.ca/index.php
+
+Planner Life is a basic, interactive e-commerce website that allows customers to browse through the offered products such as notebooks and planners. The goal of this website is to serve as a platform for selling products that assist with organization and help to better “plan your life”. The products are offered in different designs and for various prices to suit the needs of different customers. 
+
+The Planner Life website allows users to see some of the best-selling products on the homepage, as well as the new products that have been added to the site. It lets users choose to view all the products and their prices. If they want to add items to their cart, then they are prompted to login or sign up for an account. The login and sign-up pages are easy to use as they just require a username and password (as well as to confirm the password if they are signing up). The password strength is validated since it must be at least 8 characters in length and have at least one upper and one lowercase character, one digit, and one special character. Once the user has signed up, they will be redirected to the login page. There is a simple navigation bar at the top of every page so the user can easily navigate through the website, such as go back to the homepage, view all products, sign-up/login, or view their cart and logout. After users have logged in, the sign up and login icons in the navigation bar will be replaced by the cart icon and the logout icon. 
